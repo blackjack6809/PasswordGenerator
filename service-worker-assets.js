@@ -65,7 +65,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-4fZUQ+WUqnIvbBexfpqH7yRyvZwAIb1s\/Nh25FPlCoA=",
+      "hash": "sha256-6DlSMEGMtgkMdxU98KR54+Im811Kejj4P\/\/+M4F1s3E=",
       "url": "sample-data\/weather.json"
     },
     {
@@ -1485,5 +1485,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "wRjPu6T4"
+  "version": "M75OMUmX"
 };
