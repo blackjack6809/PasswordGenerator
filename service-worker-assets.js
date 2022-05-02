@@ -65,7 +65,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-dzV4ZPfELN5GSnYYs9g1OilaP\/5FNcIap4Hx8XUzGDA=",
+      "hash": "sha256-pKlMcVDZpha83iEegZTgV3v+mQY\/Nfoul6TA6d94my8=",
       "url": "sample-data\/appcode.json"
     },
     {
@@ -1489,5 +1489,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "5igJ73yv"
+  "version": "6VhDr+iE"
 };
